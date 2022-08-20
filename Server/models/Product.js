@@ -1,10 +1,10 @@
-const { Schema, model } = require("mongoose");
-const dateFormat = require("../utils/dateFormat");
+const { Schema, model } = require('mongoose');
+const dateFormat = require('../utils/dateFormat');
 
 const productSchema = new Schema({
   title: {
     type: String,
-    required: "The Product title is required",
+    required: 'The Product title is required',
     minlength: 1,
     maxlength: 280,
     trim: true,
@@ -33,9 +33,9 @@ const productSchema = new Schema({
     type: Date,
     default: Date.now,
     get: (timestamp) => dateFormat(timestamp),
-  },
+  }
 });
 
-const Product = model("Product", productSchema);
+const Product = model('Product', productSchema);
 
 module.exports = Product;

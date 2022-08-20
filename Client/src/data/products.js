@@ -1,13 +1,12 @@
 const products = [
   {
     title: "Art 1",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    description: "Spectacular piece by British designer The Don",
     image: "https://picsum.photos/200",
-    price: "$100",
+    price: "$50,000",
   },
   {
-    title: "Product 2",
+    title: "Art 2",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
     image: "https://picsum.photos/200",

@@ -1,31 +1,10 @@
 const categories = [
   {
-    name: 'Keyboards',
+    name: "Bespoke Art",
   },
   {
-    name: 'Guitars',
+    name: "Only You Range",
   },
-  {
-    name: 'Drums',
-  },
-  {
-    name: 'DAW',
-  },
-  {
-    name: 'Speakers',
-  },
-  {
-    name: 'Mixers',
-  },
-  {
-    name: 'INterfaces',
-  },
-  {
-    name: 'Effects',
-  },
-  {
-    name: 'Amps',
-  },
-]
+];
 
 export default categories;

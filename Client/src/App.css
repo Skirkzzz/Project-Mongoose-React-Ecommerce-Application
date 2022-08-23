@@ -14,7 +14,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: white;
+  color: #465151;
 }
 
 .header {
@@ -30,7 +30,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #465151;
 }
 
 .cart-section {
@@ -39,7 +39,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #465151;
 }
 
 .login-section {
@@ -48,7 +48,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: #e1dce1;
+  color: #465151;
 }
 
 .header h1 {
@@ -71,7 +71,7 @@
 
 .section-title {
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #465151;
   margin: 0;
 }
 
@@ -81,7 +81,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #465151;
 }
 
 .w-75 {

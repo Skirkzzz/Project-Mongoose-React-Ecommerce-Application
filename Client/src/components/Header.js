@@ -1,4 +1,4 @@
-import logo from '../assets/logo.svg';
+import logo from '../assets/moongoose.png';
 
 import { Pluralize } from '../utils/textulize'
 import { useCart } from '../context/CartContext'
@@ -19,7 +19,7 @@ const Header = () => {
     <div className='header'>
       <div className='logo-section'>
         <Link className="" to="/">
-          <img src={logo} className="logo" alt="logo" />
+          <img src={logo} className="logo" alt="logo" /> 
         </Link>
         <h1>Quick and Dirty Shop</h1>
       </div>

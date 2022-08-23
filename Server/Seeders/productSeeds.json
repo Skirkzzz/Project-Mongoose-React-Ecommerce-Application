@@ -8,7 +8,7 @@
   },
   {
     "title": "FromAncientTimes",
-    "description": "Rudimentary HTML and javascript code lovingly brushed with hues of green and blue, signalling the birth of code from the first coder Ada Lovelace",
+    "description": "Rudimentary HTML and javascript code, expressively painted with hues of green and blue, signalling the birth of code from the first coder Ada Lovelace",
     "image": "FromAncientTimes.png",
     "price": 100000,
     "category": "The Selina Collection"
@@ -29,28 +29,28 @@
   },
   {
     "title": "TheAztecs",
-    "description": "Ancient Aztec scribes sensitively depicted in typescript. Hues of green are explored to explore the art of the ancient natural world",
+    "description": "Ancient Aztec scribes, sensitively depicted in typescript. Hues of green are explored, to depict the art of the ancient natural world",
     "image": "TheAztecs.png",
     "price": 85000,
     "category": "The Selina Collection"
   },
   {
     "title": "TheGenius",
-    "description": "Lovingly painted in Python. 'The Genius' shows a natural coder able to stray beyond the standard lines of reality and able to create something beautiful in code",
+    "description": "An oil painting in the language Python. 'The Genius' shows a natural coder, able to stray beyond the standard lines of reality and into endless possibilities",
     "image": "TheGenius.png",
     "price": 65000,
     "category": "The Selina Collection"
   },
   {
     "title": "TheHole",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "description": "Reflects the emotion of the collaborative connections code. Where all other parts of the code are present, but the application cannot load because there is a fundamental missing part",
     "image": "TheHole.png",
     "price": 70000,
     "category": "The Selina Collection"
   },
   {
     "title": "TheMatrix",
-    "description": "The Matrix' displays the monotonous and standardised reasoning of code. Whilst the colours show the love of code being brought to life",
+    "description": "The Matrix' displays the monotonous and standardised reasoning of code. Whilst the colours show the love of code being brought to life and to create art",
     "image": "TheMatrix.png",
     "price": 150000,
     "category": "Only You Range"

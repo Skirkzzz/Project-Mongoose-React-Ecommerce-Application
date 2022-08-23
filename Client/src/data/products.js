@@ -17,21 +17,21 @@ const products = [
   {
     title: "InTheBeginning",
     description: "Impressionist view of cave art, written in typescript",
-    image: "XXXXXX",
+    image: "/assets/InTheBeginning.png",
     price: "$70,000",
   },
   {
     title: "PatchworkCode",
     description:
       "Impressionist art depicting the emotional journey in code, when applications are updated and parts of the code die and require a rebirth",
-    image: "XXXXXX",
+    image: "/assets/PatchworkCod.png",
     price: "$120,000",
   },
   {
     title: "TheAztecs",
     description:
       "Ancient Aztec scribes sensitively depicted in typescript. Hues of green are explored to explore the art of the ancient natural world",
-    image: "https://picsum.photos/200",
+    image: "/assets/TheAztecs.png",
     price: "$85,000",
   },
   {

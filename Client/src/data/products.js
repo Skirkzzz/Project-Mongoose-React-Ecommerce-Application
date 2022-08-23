@@ -3,7 +3,7 @@ const products = [
     title: "AlienLanguage",
     description:
       "Denotes am impressionist view of the language of the ancient human race written in React using mongoose",
-    image: "/assets/AlienLanguage.png",
+    image: "/assets/images/AlienLanguage.png",
     price: "$50,000",
   },
   {

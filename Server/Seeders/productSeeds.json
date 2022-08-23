@@ -1,30 +1,65 @@
 [
   {
-    "title": "Yamaha DX7",
-    "description": "An 80s icon, the Original Digital Keyboard",
-    "image": "dx7.png",
-    "price": 1200,
-    "category": "Keyboards"
+    "title": "AlienLanguage",
+    "description": "Denotes am impressionist view of the language of the ancient human race written in React using mongoose",
+    "image": "AlienLanguage.png",
+    "price": 50000,
+    "category": "The Selina Collection"
   },
   {
-    "title": "Roland TR-707",
-    "description": "The original Roland Drum machine that was made in the 80s",
-    "image": "tr-707.png",
-    "price": 2500,
-    "category": "Keyboards"
+    "title": "FromAncientTimes",
+    "description": "Rudimentary HTML and javascript code lovingly brushed with hues of green and blue, signalling the birth of code from the first coder Ada Lovelace",
+    "image": "FromAncientTimes.png",
+    "price": 100000,
+    "category": "The Selina Collection"
   },
   {
-    "title": "Roland D50",
-    "description": "Another 80s icon, Roland's response to the Yamaha DX7",
-    "image": "d50.png",
-    "price": 1400,
-    "category": "Keyboards"
+    "title": "InTheBeginning",
+    "description": "Impressionist view of cave art, written in typescript",
+    "image": "InTheBeginning.png",
+    "price": 70000,
+    "category": "Selina"
   },
   {
-    "title": "Fender Stratocaster",
-    "description": "Arguably the most iconic guitar in the world",
-    "image": "fender_strat.png",
-    "price": 800,
-    "category": "Guitars"
+    "title": "PatchworkCode",
+    "description": "Impressionist art depicting the emotional journey in code, when applications are updated and parts of the code die and require a rebirth",
+    "image": "PatchworkCode.png",
+    "price": 120000,
+    "category": "The Selina Collection"
+  },
+  {
+    "title": "TheAztecs",
+    "description": "Ancient Aztec scribes sensitively depicted in typescript. Hues of green are explored to explore the art of the ancient natural world",
+    "image": "TheAztecs.png",
+    "price": 85000,
+    "category": "The Selina Collection"
+  },
+  {
+    "title": "TheGenius",
+    "description": "Lovingly painted in Python. 'The Genius' shows a natural coder able to stray beyond the standard lines of reality and able to create something beautiful in code",
+    "image": "TheGenius.png",
+    "price": 65000,
+    "category": "The Selina Collection"
+  },
+  {
+    "title": "TheHole",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "TheHole.png",
+    "price": 70000,
+    "category": "The Selina Collection"
+  },
+  {
+    "title": "TheMatrix",
+    "description": "The Matrix' displays the monotonous and standardised reasoning of code. Whilst the colours show the love of code being brought to life",
+    "image": "TheMatrix.png",
+    "price": 150000,
+    "category": "Only You Range"
+  },
+  {
+    "title": "TheRegenerator",
+    "description": "The regenerator shows one colourful and brilliant coding language dying to make way for the birth of another.",
+    "image": "TheRegenerator.png",
+    "price": 100000,
+    "category": "Bespoke Art"
   }
 ]

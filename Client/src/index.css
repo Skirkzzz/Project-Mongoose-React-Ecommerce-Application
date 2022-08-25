@@ -15,7 +15,7 @@ code {
 <button class="button-23" role="button">Button 23</button>
 
 /* CSS */
-.button-23 {
+.btn {
   background-color: #ffffff;
   border: 1px solid #222222;
   border-radius: 8px;
@@ -42,12 +42,12 @@ code {
   width: auto;
 }
 
-.button-23:focus-visible {
+.btn :focus-visible {
   box-shadow: #222222 0 0 0 2px, rgba(255, 255, 255, 0.8) 0 0 0 4px;
   transition: box-shadow 0.2s;
 }
 
-.button-23:active {
+.btn :active {
   background-color: #f7f7f7;
   border-color: #000000;
   transform: scale(0.96);

@@ -21,7 +21,7 @@ const Header = () => {
         <Link className="" to="/">
           <img src={logo} className="logo" alt="logo" />
         </Link>
-        <h1>Quick and Dirty Shop</h1>
+        <h1>Artifical Artist</h1>
       </div>
       <div className='cart-section'>
         {cartItems.length > 0 ? (

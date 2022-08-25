@@ -66,7 +66,7 @@
 
 .App-link {
   margin: 0px 10px;
-  color: #dce1e1;
+  color: #000000;
 }
 
 .section-title {
@@ -164,7 +164,7 @@
   color: #dcdfe1;
   border: none;
   padding: 10px;
-  border-radius: 15%;
+  border-radius: 10%;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -175,6 +175,7 @@
 
 .btn-primary {
   background-color: #dfdce1;
+  color:rgb(0, 0, 0)
 }
 
 .product-details {

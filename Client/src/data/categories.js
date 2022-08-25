@@ -1,24 +1,30 @@
 const categories = [
   {
-    "name": "Ancient Times"
+    name: 'Keyboards',
   },
   {
-    "name": "Dazzle"
+    name: 'Guitars',
   },
   {
-    "name": "Deer: In An Extra Dimension"
+    name: 'Drums',
   },
   {
-    "name": "Nishikigoi Taijitu"
+    name: 'DAW',
   },
   {
-    "name": "Salvador's Cows"
+    name: 'Speakers',
   },
   {
-    "name": "The S Collection"
+    name: 'Mixers',
   },
   {
-    "name": "Wolf God's"
+    name: 'INterfaces',
+  },
+  {
+    name: 'Effects',
+  },
+  {
+    name: 'Amps',
   },
 ]
 

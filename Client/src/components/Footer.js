@@ -1,11 +1,11 @@
-import logo from '../assets/logo.svg';
+import logo from "../assets/logo.svg";
 
 const Footer = () => {
   return (
-    <div className='footer'>
+    <div className="footer justify-center border-t-2 pt-4">
       Copyright &copy; {new Date().getFullYear()}
     </div>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

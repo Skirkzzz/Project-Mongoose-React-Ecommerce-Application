@@ -1,28 +1,40 @@
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
-const ProductCard = ( props ) => {
-
-    console.log(props)
-    const {title, description, image, price, _id, onAddToCart} = props;
-
+const ProductCard = (props) => {
+  console.log(props);
+  const { title, description, image, price, _id, onAddToCart } = props;
 
   return (
-    <div className='border p-5 m-2 flex'>
-        <div>
-            <img src={`/assets/${image}`} alt={title} className='product-image p-5' />
+    <div className="p-6 m-2 flex flex-row drop-shadow-2xl border-b-2 mb-4 border-gray-400 ">
+      <div>
+        <img
+          src={`/assets/${image}`}
+          alt={title}
+          className="product-image rounded-xl"
+        />
+      </div>
+      <div className="product-details ml-4 flex flex-col justify-center">
+        <Link
+          to={`/product/${_id}`}
+          className="text-3xl font-medium text-center"
+        >
+          {title}
+        </Link>
+        <div className="product-description">
+          <p className="text-sm">{description}</p>
         </div>
-        <div className='product-details'>
-            <Link to={`/product/${_id}`}>{title}</Link>
-            <div className='product-description'>
-                <p className='text-sm'>{description}</p>
-            </div>
-            <div className='product-price'>
-                <p className='text-lg mr-5'>£{price}</p>
-                <button className='btn btn-primary' onClick={onAddToCart}>Add to Cart</button>
-            </div>
+        <div className="product-price flex justify-between">
+          <p className="text-lg mr-5 font-bold">£{price}</p>
+          <button
+            className="bg-gray-700 px-4 py-2 rounded-xl text-gray-200 text-base"
+            onClick={onAddToCart}
+          >
+            Add to Cart
+          </button>
         </div>
+      </div>
     </div>
- )
-}
+  );
+};
 
-export default ProductCard
+export default ProductCard;

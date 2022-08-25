@@ -8,13 +8,13 @@
 }
 
 .wrapper {
-  background-color: #282c34;
+  background-color: #f8f9f9;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: white;
+  color: #465151;
 }
 
 .header {
@@ -30,7 +30,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #465151;
 }
 
 .cart-section {
@@ -39,7 +39,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #465151;
 }
 
 .login-section {
@@ -48,7 +48,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #465151;
 }
 
 .header h1 {
@@ -66,12 +66,12 @@
 
 .App-link {
   margin: 0px 10px;
-  color: #61dafb;
+  color: #000000;
 }
 
 .section-title {
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #465151;
   margin: 0;
 }
 
@@ -81,7 +81,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #465151;
 }
 
 .w-75 {
@@ -93,7 +93,7 @@
 }
 
 .border {
-  border: 1px solid #61dafb; 
+  border: 1px solid #dce1e1;
 }
 
 .m-1 {
@@ -161,10 +161,10 @@
 
 .btn {
   background-color: rgb(195, 195, 188);
-  color: white;
+  color: #dcdfe1;
   border: none;
   padding: 10px;
-  border-radius: 15%;
+  border-radius: 10%;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -174,7 +174,8 @@
 }
 
 .btn-primary {
-  background-color: #61dafb;
+  background-color: #dfdce1;
+  color:rgb(0, 0, 0)
 }
 
 .product-details {
@@ -189,7 +190,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  
+
   height: auto;
   min-height: 150px;
 }

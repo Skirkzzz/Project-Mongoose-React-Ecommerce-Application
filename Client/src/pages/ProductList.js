@@ -38,7 +38,7 @@ const ProductList = () => {
       </div>  
       <div className='w-25 border m-2 p-5'>
         <div className='section-title'>
-            Browse the Shop
+            Browse Your Collections
         </div>
         <CategoriesLinks />
       </div>

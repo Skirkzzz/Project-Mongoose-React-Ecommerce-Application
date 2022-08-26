@@ -93,7 +93,9 @@
 }
 
 .border {
-  border: 1px solid #dce1e1;
+  border: 2px solid #191c1c; /* chenged color from white*/
+  border-radius: 5px;          /*  radius */
+  
 }
 
 .m-1 {
@@ -185,52 +187,49 @@
 .product-image {
   width: 400px;
   height: auto;
+  background-color: rgb(220, 220, 130); /* chenged color from white*/
+  border-radius: 5px;
 }
 
 .product-description {
   display: flex;
   flex-direction: column;
   justify-content: center;
-
   height: auto;
   min-height: 150px;
+  background-color: rgb(186, 186, 218); /* changed color from white */
+  
 }
 
-/* CSS */
+/* styling for the buttons*/
 .btn {
-  background-color: #ffffff;
-  border: 1px solid #222222;
-  border-radius: 8px;
-  box-sizing: border-box;
-  color: #222222;
-  cursor: pointer;
-  display: inline-block;
-  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
-    "Helvetica Neue", sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 20px;
-  margin: 0;
-  outline: none;
-  padding: 13px 23px;
-  position: relative;
+  background-color: rgb(199, 75, 75);
+  color: #dcdfe1;
+  border: none;
+  padding: 10px;
+  border-radius: 10%;
   text-align: center;
   text-decoration: none;
-  touch-action: manipulation;
-  transition: box-shadow 0.2s, -ms-transform 0.1s, -webkit-transform 0.1s,
-    transform 0.1s;
-  user-select: none;
-  -webkit-user-select: none;
-  width: auto;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
-.btn :focus-visible {
+/* added psuedo  effect for the buttons */
+.btn:hover {
+  background-color: yellow; 
+  color:rgb(0, 0, 0)
+
+}
+
+/* .btn :focus-visible {
   box-shadow: #222222 0 0 0 2px, rgba(255, 255, 255, 0.8) 0 0 0 4px;
   transition: box-shadow 0.2s;
-}
+} */
 
-.btn :active {
+/* .btn :active {
   background-color: #f7f7f7;
   border-color: #000000;
   transform: scale(0.96);
-}
+} */

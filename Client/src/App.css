@@ -234,3 +234,16 @@
   border-color: #000000;
   transform: scale(0.96);
 }
+
+.form-input {
+display: flex;
+flex-direction:column;
+justify-content: center;
+align-items: center;
+}
+
+.card-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }

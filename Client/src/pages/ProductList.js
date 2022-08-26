@@ -29,7 +29,7 @@ const ProductList = () => {
   return (
     <>
       <div className='w-75 border m-2 p-5'>
-        <h1>All {categoryName}</h1>
+        <h1>Prompt {categoryName}</h1>
         <div className='section-title'>
           {products.map(product => (
             <ProductCard key={product.title} {...product} onAddToCart={()=>onAddToCart(product)} />

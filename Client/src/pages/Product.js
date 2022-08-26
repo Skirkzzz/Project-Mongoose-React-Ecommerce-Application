@@ -30,7 +30,9 @@ const Product = () => {
     <>
       <div className='w-75 border m-2 p-5'>
         <h1>{productName}</h1>
+        <div className='section-title'>
           <ProductCard key={product.title} {...productData} onAddToCart={()=>onAddToCart(product)} />
+        </div>
       </div>  
       <div className='w-25 border m-2 p-5'>
         <div className='section-title'>

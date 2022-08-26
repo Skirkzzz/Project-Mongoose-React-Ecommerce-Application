@@ -51,6 +51,19 @@ query Products {
 }
 `;
 
+export const QUERY_SINGLE_PRODUCT = gql`
+query Product($productId: ID!) {
+  product(productId: $productId) {
+    title
+    description
+    image
+    price
+    createdAt
+    _id
+  }
+}
+`;
+
 export const QUERY_ME = gql`
   query me {
     me {

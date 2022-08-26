@@ -1,4 +1,4 @@
-import logo from '../assets/logo.svg';
+import logo from '../assets/logo.jpg';
 
 import { Pluralize } from '../utils/textulize'
 import { useCart } from '../context/CartContext'

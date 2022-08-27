@@ -52,6 +52,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 https://github.com/Skirkzzz/Project-Mongoose-React-Ecommerce-Application/tree/main
 
+https://skirkzzz.github.io/Project-Mongoose-React-Ecommerce-Application/
+
 ## The Authors
 
 ![AI the future!](/assets/images/TeamMongoose.png)

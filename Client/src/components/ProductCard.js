@@ -20,7 +20,7 @@ const ProductCard = (props) => {
         </div>
         <div className="product-price">
           <p className="text-lg mr-5">£{price}</p>
-          <button className="btn btn-primary" onClick={onAddToCart}>
+          <button className="btn bg-yellow" onClick={onAddToCart}>
             Add to Cart
           </button>
         </div>

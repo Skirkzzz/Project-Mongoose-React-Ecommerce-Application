@@ -190,7 +190,7 @@
 .product-image {
   width: 400px;
   height: auto;
-  background-color: rgb(220, 220, 130); /* chenged color from white*/
+  
   border-radius: 5px;
 }
 
@@ -200,7 +200,6 @@
   justify-content: center;
   height: auto;
   min-height: 150px;
-  background-color: rgb(186, 186, 218); /* changed color from white */
   
 }
 

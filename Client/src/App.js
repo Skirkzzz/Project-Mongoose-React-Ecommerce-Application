@@ -63,7 +63,7 @@ function App() {
               />
               <Route 
                 path="/basket"
-                element={<Basket />}
+                element={<Basket />} 
               />
               <Route 
                 path="/me"

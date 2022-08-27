@@ -237,6 +237,11 @@
 <<<<<<< HEAD
 } */
 
+.btn:hover {  
+ opacity: 0.7;
+ transition: all 0.3s ease-in-out;
+  color:rgb(0, 0, 0)
+}
 
 .form-input {
 display: flex;

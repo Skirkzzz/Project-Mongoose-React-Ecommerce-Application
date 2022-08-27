@@ -16,7 +16,7 @@ const Home = () => {
 
   return (
     <>
-      <div className="w-75 border m-2 p-5 bg-red">
+      <div className="w-75 border m-2 p-5">
         <div className="section-title">
           {products.map((product) => (
             <ProductCard
@@ -27,7 +27,7 @@ const Home = () => {
           ))}
         </div>
       </div>
-      <div className="w-25 border m-2 p-5 bg-lightblue">
+      <div className="w-25 border m-2 p-5">
         <div className="section-title">Browse Your Collections</div>
         <CategoriesLinks />
       </div>

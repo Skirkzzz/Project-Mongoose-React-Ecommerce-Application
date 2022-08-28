@@ -15,21 +15,21 @@ https://docs.google.com/presentation/d/1fJuRwT4HTy0TZ_3k_KCdE1o61fJpewBeFSWuIkln
 
 ## Future Development
 
-![AI the future!](/assets/images/FutureDevelopment.png)
+![AI the future!](/Assets/images/FutureDevelopment.png)
 
 ## The Future of AI
 
 Can technology imagine and take over human creativity?
-![AI the future!](/assets/images/AI1.png)
-![AI the future!](/assets/images/AI2.png)
-![AI the future!](/assets/images/AIHistory.png)
-![AI the future!](/assets/images/AINews1.png)
-![AI the future!](/assets/images/AINews2.png)
+![AI the future!](/Assets/images/AI1.png)
+![AI the future!](/Assets/images/AI2.png)
+![AI the future!](/Assets/images/AIHistory.png)
+![AI the future!](/Assets/images/AINews1.png)
+![AI the future!](/Assets/images/AINews2.png)
 
 ## Technologies
 
-![AI the future!](/assets/images/Technologies.png)
-![AI the future!](/assets/images/AITechnologies.png)
+![AI the future!](/Assets/images/Technologies.png)
+![AI the future!](/Assets/images/AITechnologies.png)
 
 ## Deployment
 
@@ -58,4 +58,4 @@ https://skirkzzz.github.io/Project-Mongoose-React-Ecommerce-Application/
 
 ## The Authors
 
-![AI the future!](/assets/images/TeamMongoose.png)
+![AI the future!](/Assets/images/TeamMongoose.png)

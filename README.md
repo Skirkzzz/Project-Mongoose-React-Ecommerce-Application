@@ -59,3 +59,7 @@ https://skirkzzz.github.io/Project-Mongoose-React-Ecommerce-Application/
 ## The Authors
 
 ![AI the future!](/Assets/images/TeamMongoose.png)
+
+https://github.com/Skirkzzz
+https://github.com/DonAvworo
+https://github.com/Muyawia
